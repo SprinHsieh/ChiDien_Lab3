@@ -1,0 +1,3 @@
+Notes
+Although it works ok on my computer, I need to press n several times(like 2) to make a new wave.
+Some bugs I guess.
